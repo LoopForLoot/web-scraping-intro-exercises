@@ -21,7 +21,7 @@ BeautifulSoup (from bs4): Parses HTML to easily find and extract elements.
 ### How to Run:
 #### 1. Clone the repository.
    ```bash
-    git clone https://github.com/LoopForLoot/python-rock-paper-scissors-game.git
+    git clone https://github.com/LoopForLoot/web-scraping-intro-exercises.git
 ```
 
 
